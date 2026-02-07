@@ -1,0 +1,1 @@
+index.router.ts  → sendMessage.router.ts >  serve.moudle(injeta o router dentro do controller) >  sendMessage.controller.ts > montior.service.ts
